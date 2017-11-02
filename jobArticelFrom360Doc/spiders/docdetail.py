@@ -63,7 +63,7 @@ class DocDetailCrawlerSpider(scrapy.Spider):
 
 		#reviewcount=response.selector.css('div[titwx::text]').extract()
 		#print(content)
-		page = 1s
+		page = 1
 		j = 1
 		reviewUrl='http://webservice.360doc.com/GetArtInfo20130912NewV.ashx?GetReflection2=%s,%s,0,%s,%s,%d&jsoncallback=jsonp123'%(articleId,username,page,articleId,j)
 		item=Jobarticelfrom360DocItem()
