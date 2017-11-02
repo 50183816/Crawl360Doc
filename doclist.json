@@ -1,0 +1,1459 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="UTF-8">
+    <title>2018校园招聘_这一步校园招聘网_【只为应届生而生】大学生求职网</title>
+    <meta name="keywords" content="找实习,校园招聘,2018校园招聘，校园招聘网,实习招聘,大学生实习网,求职导师,应届毕业生,大学生招聘网" />
+    <meta name="description" content="这一步是覆盖全国的校园招聘一站式服务平台,为大学生求职提供最新最全的校园招聘信息和专业的职位推送服务,立志解决中国的大学生就业问题。" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <meta http-equiv="mobile-agent" content="format=html5; url=http://m.zheyibu.com">
+    <meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.zheyibu.com">
+    <meta http-equiv="mobile-agent" content="format=wml; url=http://m.zheyibu.com">
+    <meta name="applicable-device" content="pc">
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.zheyibu.com">
+
+        <link rel="canonical" href="http://www.zheyibu.com" />
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <!-- global -->
+    <link href="http://static.zheyibu.com/lib/css/normalize.css" rel="stylesheet" />
+    <script src="http://static.zheyibu.com/lib/js/base/jquery-1.11.3.min.js"></script>
+    <!-- header-footer -->
+    <link href="http://static.zheyibu.com/lib/css/student/header-footer.css?u=0b153d9f-1171-43bd-a92c-17aa9e948852" rel="stylesheet" />
+    
+    <link href="http://static.zheyibu.com/student/css/index/homepage.css?u=6faa0d0d-f879-43bc-b823-f873c1d000af" rel="stylesheet" />
+    <link href="http://static.zheyibu.com/lib/css/student/city-picker.css?u=10808311-6fac-4f46-be17-94f6fad3d7a1" rel="stylesheet" />
+    <link href="http://static.zheyibu.com/lib/css/student/layerAlertMask.css?u=10808311-6fac-4f46-be17-94f6fad3d7a1" rel="stylesheet" />
+
+    <script>
+        document.domain = "zheyibu.com";
+    </script>
+</head>
+<body>
+    
+
+
+<!-- Header start -->
+<div id="homepage-header">
+    <div class="user-back">
+        <div class="user-info" data-applyCount="0" data-pushCount="0" data-hrInviteCount="0" data-FollowCount="0"
+              data-unReadQACount="0" data-unReadHRMessageCount="0">
+            <div class="warning-msg">这一步提醒：提高警惕，识破虚假招聘、避免上当受骗！<span id="warning-detail">查看</span></div>
+                <div class="header-info">
+                    <a href="http://www.zheyibu.com/account/login/">学生登录</a>
+                    <span>|</span>
+                    <a href="http://www.zheyibu.com/account/register/">注册</a>
+                    <a href="http://enterprise.zheyibu.com/" class="company-login">企业入口</a>
+                </div>
+        </div>
+    </div>
+    <div class="header">
+        <a class="header-icon" href="http://www.zheyibu.com/">
+            <i></i>
+            <span>校园招聘</span>
+        </a>
+        <div class="header-list cf">
+            <a href="http://www.zheyibu.com/" class="list-item current">首页</a>
+            <a href="http://www.zheyibu.com/quanzhi" class="list-item">找全职</a>
+            <a href="http://www.zheyibu.com/shixi" class="list-item">找实习</a>
+            <a href="http://www.zheyibu.com/xuanjianghui/" class="list-item">宣讲会</a>
+            
+            <a href="http://www.zheyibu.com/article/" class="list-item">求职攻略</a>
+            <a href="http://www.zheyibu.com/ceshi/zhiyemao/" class="list-item">职业锚</a>
+        </div>
+    </div>
+    
+</div>
+<!-- Header end -->
+
+
+    
+
+
+<!-- Body start -->
+<div id="homepage-container">
+    <div class="homepage-nav">
+        <div class="search-banner">
+            
+<!-- Banner start -->
+<div class="aft">
+    <ul id="slide">
+        <li><a href="http://www.zheyibu.com/ceshi/zhiyemao?homepage=0" class="part1bg part1-bg0"></a></li>
+        <li><a href="http://www.zheyibu.com/resume/myobjective?homepage=0" class="part1bg part1-bg1"></a></li>
+        <li><a class="part1bg part1-bg2" href="http://enterprise.zheyibu.com/"></a></li>
+        <li><a href="http://www.zheyibu.com/zhuanti/topuc" class="part1bg part1-bg3"></a></li>
+    </ul>
+</div>
+<!-- Banner end -->
+            <!-- 搜索栏 start -->
+            <div class="search-module">
+                <div id="homepage-search">
+                    <div class="search-job">
+                        <span id="search-job">全职</span>
+                        <i></i>
+                        <input type="hidden" name="J_Type" id="J_Type" value="1" />
+                    </div>
+                    
+<div class="search-location">
+    <input id="cityName" class="cityName" value='上海' readonly placeholder="全国"/>
+    <input type="hidden" id="hCity" name="city" value="1003" />
+</div>
+                    <div class="s-key">
+                        <input type="text" id="keys" placeholder="请输入职位或公司关键词" />
+                        <div class="s-btn">
+                            <i></i>
+                            <span style="font-weight:800">找工作</span>
+                        </div>
+                    </div>
+                    <ul class="s-job dN">
+                        <li data-id="1">全职</li>
+                        <li data-id="2">实习</li>
+                    </ul>
+                </div>
+                <div class="hot-link clearfix">
+                    <div class="mb5">热搜职位:</div>
+                                <a href="javascript:;">管理培训生</a>
+                                <a href="javascript:;">会计</a>
+                                <a href="javascript:;">财务</a>
+                                <a href="javascript:;">Java开发工程师</a>
+                                <a href="javascript:;">测试工程师</a>
+                                <a href="javascript:;">产品经理</a>
+                                <a href="javascript:;">运营专员</a>
+                                <a href="javascript:;">销售代表</a>
+                                <a href="javascript:;">编辑</a>
+                                <a href="javascript:;">人力资源专员</a>
+                                <a href="javascript:;">行政专员</a>
+
+                </div>
+            </div>
+            <!-- 搜索栏 end -->
+        </div>
+    </div>
+    <div class="homepage-pro">
+        <div class="pro-container">
+            <!--按专业找职位 start -->
+            <div class="homepage-part1">
+                <div class="part1-container">
+                    <p class="part-header-item cf"><label data-items="item1">工学<span>/Engineering</span></label></p>
+                    <ul class="specialty1 s-list">
+                        <li><a href="/mp/0-0-0-0-jixieshejizhizaojiqizidonghua-机械设计制造及其自动化/" target="_blank" class="highlight">机械设计制造及其自动化</a></li>
+                        <li><a href="/mp/0-0-0-0-cailiaochengxingjikongzhigongcheng-材料成型及控制工程/" target="_blank">材料成型及控制工程</a></li>
+                        <li><a href="/mp/0-0-0-0-jixiedianzigongcheng-机械电子工程/" target="_blank">机械电子工程</a></li>
+                        <li><a href="/mp/0-0-0-0-gongyesheji-工业设计/" target="_blank">工业设计</a></li>
+                        <li><a href="/mp/0-0-0-0-guochengzhuangbeiyukongzhigongcheng-过程装备与控制工程/" target="_blank">过程装备与控制工程</a></li>
+                        <li><a href="/mp/0-0-0-0-chelianggongcheng-车辆工程/" target="_blank" class="highlight">车辆工程</a></li>
+                        <li><a href="/mp/0-0-0-0-cekongjishuyuyiqi-测控技术与仪器/" target="_blank">测控技术与仪器</a></li>
+                        <li><a href="/mp/0-0-0-0-cailiaokexueyugongcheng-材料科学与工程/" target="_blank" class="highlight">材料科学与工程</a></li>
+                        <li><a href="/mp/0-0-0-0-gaofenzicailiaoyugongcheng-高分子材料与工程/" target="_blank">高分子材料与工程</a></li>
+                        <li><a href="/mp/0-0-0-0-dianqigongchengjiqizidonghua-电气工程及其自动化/" target="_blank" class="highlight">电气工程及其自动化</a></li>
+                        <li><a href="/mp/0-0-0-0-dianzixinxigongcheng-电子信息工程/" target="_blank" class="highlight">电子信息工程</a></li>
+                        <li><a href="/mp/0-0-0-0-dianzikexueyujishu-电子科学与技术/" target="_blank">电子科学与技术</a></li>
+                        <li><a href="/mp/0-0-0-0-tongxingongcheng-通信工程/" target="_blank">通信工程</a></li>
+                        <li><a href="/mp/0-0-0-0-dianzixinxikexueyujishu-电子信息科学与技术/" target="_blank">电子信息科学与技术</a></li>
+                        <li><a href="/mp/0-0-0-0-zidonghua-自动化/" target="_blank">自动化</a></li>
+                        <li><a href="/mp/0-0-0-0-jisuanjikexueyujishu-计算机科学与技术/" target="_blank" class="highlight">计算机科学与技术</a></li>
+                        <li><a href="/mp/0-0-0-0-ruanjiangongcheng-软件工程/" target="_blank" class="highlight">软件工程</a></li>
+                        <li><a href="/mp/0-0-0-0-wangluogongcheng-网络工程/" target="_blank">网络工程</a></li>
+                        <li><a href="/mp/0-0-0-0-tumugongcheng-土木工程/" target="_blank" class="highlight">土木工程</a></li>
+                        <li><a href="/mp/0-0-0-0-cehuigongcheng-测绘工程/" target="_blank">测绘工程</a></li>
+                        <li><a href="/mp/0-0-0-0-huaxuegongchengyugongyi-化学工程与工艺/" target="_blank">化学工程与工艺</a></li>
+                        <li><a href="/mp/0-0-0-0-zhiyaogongcheng-制药工程/" target="_blank">制药工程</a></li>
+                        <li><a href="/mp/0-0-0-0-fuzhuangshejiyugongcheng-服装设计与工程/" target="_blank">服装设计与工程</a></li>
+                        <li><a href="/mp/0-0-0-0-huanjinggongcheng-环境工程/" target="_blank">环境工程</a></li>
+                        <li><a href="/mp/0-0-0-0-huanjingkexue-环境科学/" target="_blank">环境科学</a></li>
+                        <li><a href="/mp/0-0-0-0-shipinkexueyugongcheng-食品科学与工程/" target="_blank">食品科学与工程</a></li>
+                        <li><a href="/mp/0-0-0-0-jianzhuxue-建筑学/" target="_blank">建筑学</a></li>
+                        <li><a href="/mp/0-0-0-0-chengxiangguihua-城乡规划/" target="_blank">城乡规划</a></li>
+                        <li><a href="/mp/0-0-0-0-anquangongcheng-安全工程/" target="_blank">安全工程</a></li>
+                        <li><a href="/mp/0-0-0-0-shengwugongcheng-生物工程/" target="_blank">生物工程</a></li>
+                    </ul>
+                    <p class="part-header-item cf"><label data-items="item2">文学<span>/Literature</span></label></p>
+                    <ul class="specialty2 s-list">
+                        <li><a href="/mp/0-0-0-0-hanyuyanwenxue-汉语言文学/" target="_blank" class="highlight">汉语言文学</a></li>
+                        <li><a href="/mp/0-0-0-0-hanyuyan-汉语言/" target="_blank">汉语言</a></li>
+                        <li><a href="/mp/0-0-0-0-hanyuguojijiaoyu-汉语国际教育/" target="_blank">汉语国际教育</a></li>
+                        <li><a href="/mp/0-0-0-0-yingyongyuyanxue-应用语言学/" target="_blank">应用语言学</a></li>
+                        <li><a href="/mp/0-0-0-0-yingyu-英语/" target="_blank" class="highlight">英语</a></li>
+                        <li><a href="/mp/0-0-0-0-eyu-俄语/" target="_blank">俄语</a></li>
+                        <li><a href="/mp/0-0-0-0-deyu-德语/" target="_blank">德语</a></li>
+                        <li><a href="/mp/0-0-0-0-fayu-法语/" target="_blank">法语</a></li>
+                        <li><a href="/mp/0-0-0-0-xibanyayu-西班牙语/" target="_blank">西班牙语</a></li>
+                        <li><a href="/mp/0-0-0-0-alaboyu-阿拉伯语/" target="_blank">阿拉伯语</a></li>
+                        <li><a href="/mp/0-0-0-0-riyu-日语/" target="_blank">日语</a></li>
+                        <li><a href="/mp/0-0-0-0-chaoxianyu-朝鲜语/" target="_blank">朝鲜语</a></li>
+                        <li><a href="/mp/0-0-0-0-taiyu-泰语/" target="_blank">泰语</a></li>
+                        <li><a href="/mp/0-0-0-0-yuenanyu-越南语/" target="_blank">越南语</a></li>
+                        <li><a href="/mp/0-0-0-0-putaoyayu-葡萄牙语/" target="_blank">葡萄牙语</a></li>
+                        <li><a href="/mp/0-0-0-0-yidaliyu-意大利语/" target="_blank">意大利语</a></li>
+                        <li><a href="/mp/0-0-0-0-fanyi-翻译/" target="_blank">翻译</a></li>
+                        <li><a href="/mp/0-0-0-0-shangwuyingyu-商务英语/" target="_blank">商务英语</a></li>
+                        <li><a href="/mp/0-0-0-0-xinwenxue-新闻学/" target="_blank">新闻学</a></li>
+                        <li><a href="/mp/0-0-0-0-guanggaoxue-广告学/" target="_blank">广告学</a></li>
+                        <li><a href="/mp/0-0-0-0-chuanboxue-传播学/" target="_blank">传播学</a></li>
+                        <li><a href="/mp/0-0-0-0-bianjichubanxue-编辑出版学/" target="_blank">编辑出版学</a></li>
+                        <li><a href="/mp/0-0-0-0-shuzichuban-数字出版/" target="_blank">数字出版</a></li>
+                    </ul>
+                    <p class="part-header-item cf"><label data-items="item3">历史学<span>/History</span></label></p>
+                    <ul class="specialty3 s-list">
+                        <li><a href="/mp/0-0-0-0-lishixue-历史学/" target="_blank">历史学</a></li>
+                        <li><a href="/mp/0-0-0-0-shijieshi-世界史/" target="_blank">世界史</a></li>
+                        <li><a href="/mp/0-0-0-0-kaoguxue-考古学/" target="_blank">考古学</a></li>
+                        <li><a href="/mp/0-0-0-0-wenwuyubowuguanxue-文物与博物馆学/" target="_blank">文物与博物馆学</a></li>
+                    </ul>
+                    <p class="part-header-item cf"><label data-items="item4">理学<span>/Science</span></label></p>
+                    <ul class="specialty4 s-list">
+                        <li><a href="/mp/0-0-0-0-shuxueyuyingyongshuxue-数学与应用数学/" target="_blank">数学与应用数学</a></li>
+                        <li><a href="/mp/0-0-0-0-xinxiyujisuankexue-信息与计算科学/" target="_blank">信息与计算科学</a></li>
+                        <li><a href="/mp/0-0-0-0-wulixue-物理学/" target="_blank">物理学</a></li>
+                        <li><a href="/mp/0-0-0-0-yingyongwulixue-应用物理学/" target="_blank">应用物理学</a></li>
+                        <li><a href="/mp/0-0-0-0-hewuli-核物理/" target="_blank">核物理</a></li>
+                        <li><a href="/mp/0-0-0-0-shengxue-声学/" target="_blank">声学</a></li>
+                        <li><a href="/mp/0-0-0-0-huaxue-化学/" target="_blank">化学</a></li>
+                        <li><a href="/mp/0-0-0-0-yingyonghuaxue-应用化学/" target="_blank">应用化学</a></li>
+                        <li><a href="/mp/0-0-0-0-dilikexue-地理科学/" target="_blank">地理科学</a></li>
+                        <li><a href="/mp/0-0-0-0-daqikexue-大气科学/" target="_blank">大气科学</a></li>
+                        <li><a href="/mp/0-0-0-0-haiyangkexue-海洋科学/" target="_blank">海洋科学</a></li>
+                        <li><a href="/mp/0-0-0-0-dizhixue-地质学/" target="_blank">地质学</a></li>
+                        <li><a href="/mp/0-0-0-0-diqiuhuaxue-地球化学/" target="_blank">地球化学</a></li>
+                        <li><a href="/mp/0-0-0-0-shengwukexue-生物科学/" target="_blank">生物科学</a></li>
+                        <li><a href="/mp/0-0-0-0-shengwujishu-生物技术/" target="_blank">生物技术</a></li>
+                        <li><a href="/mp/0-0-0-0-shengwuxinxixue-生物信息学/" target="_blank">生物信息学</a></li>
+                        <li><a href="/mp/0-0-0-0-shengtaixue-生态学/" target="_blank">生态学</a></li>
+                        <li><a href="/mp/0-0-0-0-xinlixue-心理学/" target="_blank">心理学</a></li>
+                        <li><a href="/mp/0-0-0-0-yingyongxinlixue-应用心理学/" target="_blank">应用心理学</a></li>
+                        <li><a href="/mp/0-0-0-0-tongjixue-统计学/" target="_blank">统计学</a></li>
+                        <li><a href="/mp/0-0-0-0-yingyongtongjixue-应用统计学/" target="_blank">应用统计学</a></li>
+                    </ul>
+                    <p class="part-header-item cf"><label data-items="item5">医学<span>/Medical Science</span></label></p>
+                    <ul class="specialty5 s-list">
+                        <li><a href="/mp/0-0-0-0-jichuyixue-基础医学/" target="_blank">基础医学</a></li>
+                        <li><a href="/mp/0-0-0-0-linchuangyixue-临床医学/" target="_blank">临床医学</a></li>
+                        <li><a href="/mp/0-0-0-0-mazuixue-麻醉学/" target="_blank">麻醉学</a></li>
+                        <li><a href="/mp/0-0-0-0-yixueyingxiangxue-医学影像学/" target="_blank">医学影像学</a></li>
+                        <li><a href="/mp/0-0-0-0-kouqiangyixue-口腔医学/" target="_blank">口腔医学</a></li>
+                        <li><a href="/mp/0-0-0-0-yufangyixue-预防医学/" target="_blank">预防医学</a></li>
+                        <li><a href="/mp/0-0-0-0-weishengjiandu-卫生监督/" target="_blank">卫生监督</a></li>
+                        <li><a href="/mp/0-0-0-0-zhongyixue-中医学/" target="_blank">中医学</a></li>
+                        <li><a href="/mp/0-0-0-0-zhenjiutuinaxue-针灸推拿学/" target="_blank">针灸推拿学</a></li>
+                        <li><a href="/mp/0-0-0-0-zhongxiyilinchuangyixue-中西医临床医学/" target="_blank">中西医临床医学</a></li>
+                        <li><a href="/mp/0-0-0-0-yaoxue-药学/" target="_blank">药学</a></li>
+                        <li><a href="/mp/0-0-0-0-yaowuzhiji-药物制剂/" target="_blank">药物制剂</a></li>
+                        <li><a href="/mp/0-0-0-0-linchuangyaoxue-临床药学/" target="_blank">临床药学</a></li>
+                        <li><a href="/mp/0-0-0-0-yaowufenxi-药物分析/" target="_blank">药物分析</a></li>
+                        <li><a href="/mp/0-0-0-0-yaowuhuaxue-药物化学/" target="_blank">药物化学</a></li>
+                        <li><a href="/mp/0-0-0-0-fayixue-法医学/" target="_blank">法医学</a></li>
+                        <li><a href="/mp/0-0-0-0-yixuejianyanjishu-医学检验技术/" target="_blank">医学检验技术</a></li>
+                        <li><a href="/mp/0-0-0-0-kangfuzhiliaoxue-康复治疗学/" target="_blank">康复治疗学</a></li>
+                        <li><a href="/mp/0-0-0-0-hulixue-护理学/" target="_blank">护理学</a></li>
+                    </ul>
+                    <p class="part-header-item cf"><label data-items="item6">农学<span>/Agronomy</span></label></p>
+                    <ul class="specialty6 s-list">
+                        <li><a href="/mp/0-0-0-0-nongxue-农学/" target="_blank">农学</a></li>
+                        <li><a href="/mp/0-0-0-0-yuanyi-园艺/" target="_blank">园艺</a></li>
+                        <li><a href="/mp/0-0-0-0-zhiwubaohu-植物保护/" target="_blank">植物保护</a></li>
+                        <li><a href="/mp/0-0-0-0-chaxue-茶学/" target="_blank">茶学</a></li>
+                        <li><a href="/mp/0-0-0-0-yingyongshengwukexue-应用生物科学/" target="_blank">应用生物科学</a></li>
+                        <li><a href="/mp/0-0-0-0-nongyeziyuanyuhuanjing-农业资源与环境/" target="_blank">农业资源与环境</a></li>
+                        <li><a href="/mp/0-0-0-0-dongwukexue-动物科学/" target="_blank">动物科学</a></li>
+                        <li><a href="/mp/0-0-0-0-dongwuyixue-动物医学/" target="_blank">动物医学</a></li>
+                        <li><a href="/mp/0-0-0-0-linxue-林学/" target="_blank">林学</a></li>
+                        <li><a href="/mp/0-0-0-0-yuanlin-园林/" target="_blank">园林</a></li>
+                        <li><a href="/mp/0-0-0-0-senlinbaohu-森林保护/" target="_blank">森林保护</a></li>
+                        <li><a href="/mp/0-0-0-0-shuichanyangzhixue-水产养殖学/" target="_blank">水产养殖学</a></li>
+                        <li><a href="/mp/0-0-0-0-caoyekexue-草业科学/" target="_blank">草业科学</a></li>
+                    </ul>
+                    <p class="part-header-item cf"><label data-items="item7">教育学<span>/Education</span></label></p>
+                    <ul class="specialty7 s-list">
+                        <li><a href="/mp/0-0-0-0-jiaoyuxue-教育学/" target="_blank">教育学</a></li>
+                        <li><a href="/mp/0-0-0-0-kexuejiaoyu-科学教育/" target="_blank">科学教育</a></li>
+                        <li><a href="/mp/0-0-0-0-jiaoyujishuxue-教育技术学/" target="_blank">教育技术学</a></li>
+                        <li><a href="/mp/0-0-0-0-yishujiaoyu-艺术教育/" target="_blank">艺术教育</a></li>
+                        <li><a href="/mp/0-0-0-0-xueqianjiaoyu-学前教育/" target="_blank">学前教育</a></li>
+                        <li><a href="/mp/0-0-0-0-xiaoxuejiaoyu-小学教育/" target="_blank">小学教育</a></li>
+                        <li><a href="/mp/0-0-0-0-teshujiaoyu-特殊教育/" target="_blank">特殊教育</a></li>
+                        <li><a href="/mp/0-0-0-0-tiyujiaoyu-体育教育/" target="_blank">体育教育</a></li>
+                        <li><a href="/mp/0-0-0-0-yundongxunlian-运动训练/" target="_blank">运动训练</a></li>
+                        <li><a href="/mp/0-0-0-0-yundongrentikexue-运动人体科学/" target="_blank">运动人体科学</a></li>
+                    </ul>
+                    <p class="part-header-item cf"><label data-items="item8">艺术学<span>/Art</span></label></p>
+                    <ul class="specialty8 s-list">
+                        <li><a href="/mp/0-0-0-0-yinlebiaoyan-音乐表演/" target="_blank">音乐表演</a></li>
+                        <li><a href="/mp/0-0-0-0-yinlexue-音乐学/" target="_blank">音乐学</a></li>
+                        <li><a href="/mp/0-0-0-0-wudaobiaoyan-舞蹈表演/" target="_blank">舞蹈表演</a></li>
+                        <li><a href="/mp/0-0-0-0-wudaoxue-舞蹈学/" target="_blank">舞蹈学</a></li>
+                        <li><a href="/mp/0-0-0-0-biaoyan-表演/" target="_blank">表演</a></li>
+                        <li><a href="/mp/0-0-0-0-guangbodianshibiandao-广播电视编导/" target="_blank">广播电视编导</a></li>
+                        <li><a href="/mp/0-0-0-0-boyinyuzhuchiyishu-播音与主持艺术/" target="_blank">播音与主持艺术</a></li>
+                        <li><a href="/mp/0-0-0-0-donghua-动画/" target="_blank">动画</a></li>
+                        <li><a href="/mp/0-0-0-0-meishuxue-美术学/" target="_blank">美术学</a></li>
+                        <li><a href="/mp/0-0-0-0-huihua-绘画/" target="_blank">绘画</a></li>
+                        <li><a href="/mp/0-0-0-0-diaosu-雕塑/" target="_blank">雕塑</a></li>
+                        <li><a href="/mp/0-0-0-0-sheying-摄影/" target="_blank">摄影</a></li>
+                        <li><a href="/mp/0-0-0-0-shijuechuandasheji-视觉传达设计/" target="_blank">视觉传达设计</a></li>
+                        <li><a href="/mp/0-0-0-0-huanjingsheji-环境设计/" target="_blank">环境设计</a></li>
+                        <li><a href="/mp/0-0-0-0-fuzhuangyufushisheji-服装与服饰设计/" target="_blank">服装与服饰设计</a></li>
+                        <li><a href="/mp/0-0-0-0-gongyimeishu-工艺美术/" target="_blank">工艺美术</a></li>
+                        <li><a href="/mp/0-0-0-0-shuzimeitiyishu-数字媒体艺术/" target="_blank">数字媒体艺术</a></li>
+                    </ul>
+                    <p class="part-header-item cf"><label data-items="item9">法学<span>/Law</span></label></p>
+                    <ul class="specialty9 s-list">
+                        <li><a href="/mp/0-0-0-0-faxue-法学/" target="_blank" class="highlight">法学</a></li>
+                        <li><a href="/mp/0-0-0-0-zhishichanquan-知识产权/" target="_blank">知识产权</a></li>
+                        <li><a href="/mp/0-0-0-0-zhengzhixueyuxingzhengxue-政治学与行政学/" target="_blank">政治学与行政学</a></li>
+                        <li><a href="/mp/0-0-0-0-guojizhengzhi-国际政治/" target="_blank">国际政治</a></li>
+                        <li><a href="/mp/0-0-0-0-shehuixue-社会学/" target="_blank">社会学</a></li>
+                        <li><a href="/mp/0-0-0-0-shehuigongzuo-社会工作/" target="_blank">社会工作</a></li>
+                        <li><a href="/mp/0-0-0-0-minzuxue-民族学/" target="_blank">民族学</a></li>
+                        <li><a href="/mp/0-0-0-0-kexueshehuizhuyi-科学社会主义/" target="_blank">科学社会主义</a></li>
+                        <li><a href="/mp/0-0-0-0-sixiangzhengzhijiaoyu-思想政治教育/" target="_blank">思想政治教育</a></li>
+                    </ul>
+                    <p class="part-header-item cf"><label data-items="item10">哲学<span>/Philosophy</span></label></p>
+                    <ul class="specialty10 s-list">
+                        <li><a href="/mp/0-0-0-0-zhexue-哲学/" target="_blank">哲学</a></li>
+                        <li><a href="/mp/0-0-0-0-luojixue-逻辑学/" target="_blank">逻辑学</a></li>
+                        <li><a href="/mp/0-0-0-0-zongjiaoxue-宗教学/" target="_blank">宗教学</a></li>
+                    </ul>
+                    <p class="part-header-item cf"><label data-items="item11">管理学<span>/Management</span></label></p>
+                    <ul class="specialty11 s-list">
+                        <li><a href="/mp/0-0-0-0-xinxiguanliyuxinxixitong-信息管理与信息系统/" target="_blank" class="highlight">信息管理与信息系统</a></li>
+                        <li><a href="/mp/0-0-0-0-gongchengguanli-工程管理/" target="_blank">工程管理</a></li>
+                        <li><a href="/mp/0-0-0-0-gongchengzaojia-工程造价/" target="_blank">工程造价</a></li>
+                        <li><a href="/mp/0-0-0-0-gongshangguanli-工商管理/" target="_blank" class="highlight">工商管理</a></li>
+                        <li><a href="/mp/0-0-0-0-shichangyingxiao-市场营销/" target="_blank" class="highlight">市场营销</a></li>
+                        <li><a href="/mp/0-0-0-0-huijixue-会计学/" target="_blank" class="highlight">会计学</a></li>
+                        <li><a href="/mp/0-0-0-0-caiwuguanli-财务管理/" target="_blank" class="highlight">财务管理</a></li>
+                        <li><a href="/mp/0-0-0-0-guojishangwu-国际商务/" target="_blank">国际商务</a></li>
+                        <li><a href="/mp/0-0-0-0-renliziyuanguanli-人力资源管理/" target="_blank" class="highlight">人力资源管理</a></li>
+                        <li><a href="/mp/0-0-0-0-shenjixue-审计学/" target="_blank">审计学</a></li>
+                        <li><a href="/mp/0-0-0-0-zichanpinggu-资产评估/" target="_blank">资产评估</a></li>
+                        <li><a href="/mp/0-0-0-0-wuyeguanli-物业管理/" target="_blank">物业管理</a></li>
+                        <li><a href="/mp/0-0-0-0-wenhuachanyeguanli-文化产业管理/" target="_blank">文化产业管理</a></li>
+                        <li><a href="/mp/0-0-0-0-laodongguanxi-劳动关系/" target="_blank">劳动关系</a></li>
+                        <li><a href="/mp/0-0-0-0-gonggongshiyeguanli-公共事业管理/" target="_blank">公共事业管理</a></li>
+                        <li><a href="/mp/0-0-0-0-xingzhengguanli-行政管理/" target="_blank">行政管理</a></li>
+                        <li><a href="/mp/0-0-0-0-laodongyushehuibaozhang-劳动与社会保障/" target="_blank">劳动与社会保障</a></li>
+                        <li><a href="/mp/0-0-0-0-tudiziyuanguanli-土地资源管理/" target="_blank">土地资源管理</a></li>
+                        <li><a href="/mp/0-0-0-0-chengshiguanli-城市管理/" target="_blank">城市管理</a></li>
+                        <li><a href="/mp/0-0-0-0-jiaotongguanli-交通管理/" target="_blank">交通管理</a></li>
+                        <li><a href="/mp/0-0-0-0-tushuguanxue-图书馆学/" target="_blank">图书馆学</a></li>
+                        <li><a href="/mp/0-0-0-0-danganxue-档案学/" target="_blank">档案学</a></li>
+                        <li><a href="/mp/0-0-0-0-xinxiziyuanguanli-信息资源管理/" target="_blank">信息资源管理</a></li>
+                        <li><a href="/mp/0-0-0-0-wuliuguanli-物流管理/" target="_blank">物流管理</a></li>
+                        <li><a href="/mp/0-0-0-0-wuliugongcheng-物流工程/" target="_blank">物流工程</a></li>
+                        <li><a href="/mp/0-0-0-0-gongyegongcheng-工业工程/" target="_blank">工业工程</a></li>
+                        <li><a href="/mp/0-0-0-0-dianzishangwu-电子商务/" target="_blank">电子商务</a></li>
+                        <li><a href="/mp/0-0-0-0-lvyouguanli-旅游管理/" target="_blank">旅游管理</a></li>
+                        <li><a href="/mp/0-0-0-0-jiudianguanli-酒店管理/" target="_blank">酒店管理</a></li>
+                    </ul>
+                    <p class="part-header-item cf"><label data-items="item4">经济学<span>/Economics</span></label></p>
+                    <ul class="specialty12 s-list">
+                        <li><a href="/mp/0-0-0-0-jingjixue-经济学/" target="_blank" class="highlight">经济学</a></li>
+                        <li><a href="/mp/0-0-0-0-jingjitongjixue-经济统计学/" target="_blank">经济统计学</a></li>
+                        <li><a href="/mp/0-0-0-0-caizhengxue-财政学/" target="_blank">财政学</a></li>
+                        <li><a href="/mp/0-0-0-0-shuishouxue-税收学/" target="_blank">税收学</a></li>
+                        <li><a href="/mp/0-0-0-0-jinrongxue-金融学/" target="_blank" class="highlight">金融学</a></li>
+                        <li><a href="/mp/0-0-0-0-jinronggongcheng-金融工程/" target="_blank">金融工程</a></li>
+                        <li><a href="/mp/0-0-0-0-baoxianxue-保险学/" target="_blank">保险学</a></li>
+                        <li><a href="/mp/0-0-0-0-touzixue-投资学/" target="_blank">投资学</a></li>
+                        <li><a href="/mp/0-0-0-0-jinrongshuxue-金融数学/" target="_blank">金融数学</a></li>
+                        <li><a href="/mp/0-0-0-0-xinyongguanli-信用管理/" target="_blank">信用管理</a></li>
+                        <li><a href="/mp/0-0-0-0-guojijingjiyumaoyi-国际经济与贸易/" target="_blank" class="highlight">国际经济与贸易</a></li>
+                        <li><a href="/mp/0-0-0-0-maoyijingji-贸易经济/" target="_blank">贸易经济</a></li>
+                    </ul>
+                </div>
+                <div class="read-more"><span>查看全部专业</span><i></i></div>
+            </div>
+            <!--按专业找职位 end -->
+        </div>
+    </div>
+    <div class="company-list">        
+        <div class="homepage-container">
+            <!-- 校园招聘推荐企业 start -->
+            <div class="homepage-part2">
+                <p class="part-header">2018校园招聘推荐企业<a href="/qiyezhaopin/" target="_blank"><span class="part2-more">查看更多>></span></a></p>
+                <ul class="part2-list">
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1314421/?promotionfrom=MV9NYXlsaW5fMTMxNDQyMQ==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="丽人丽妆" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636447240639732626.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>丽人丽妆</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">中国线上知名的化妆品经销商</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7810318.html?promotionfrom=Ml9NYXlsaW5fNzgxMDMxOA==" target="_blank"><p>[上海] 管理培训生（页面设计方向）</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7810792.html?promotionfrom=Ml9NYXlsaW5fNzgxMDc5Mg==" target="_blank"><p>[上海] 管理培训生（文案策划方向）</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1314421/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTMxNDQyMQ==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/903854/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fOTAzODU0" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="北辰德" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636447233536786900.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>北辰德</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">致力于做中国银行业最佳解决方案提供者</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7820744.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzgyMDc0NA==" target="_blank"><p>[深圳] 电子工程师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7478650.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzQ3ODY1MA==" target="_blank"><p>[深圳] 商务专员/助理</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/903854/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fOTAzODU0" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1501739/?promotionfrom=MV9NYXlsaW5fMTUwMTczOQ==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="麒祥化工" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636441201834360905.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>麒祥化工</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">致力于为橡胶行业提供优质产品和服务的高科技创新型企业</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7644755.html?promotionfrom=Ml9NYXlsaW5fNzY0NDc1NQ==" target="_blank"><p>[苏州] 应用技术工程师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7644828.html?promotionfrom=Ml9NYXlsaW5fNzY0NDgyOA==" target="_blank"><p>[上海] 销售工程师</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1501739/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTUwMTczOQ==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1533975/?promotionfrom=MV9NYXlsaW5fMTUzMzk3NQ==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="锐捷网络股份有限公司" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636441193896793033.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>锐捷网络股份有限公司</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">中国数据通信解决方案领导品牌</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7778793.html?promotionfrom=Ml9NYXlsaW5fNzc3ODc5Mw==" target="_blank"><p>[上海] Java开发工程师-应届（上海）</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7778791.html?promotionfrom=Ml9NYXlsaW5fNzc3ODc5MQ==" target="_blank"><p>[上海] 前端开发工程师-应届（上海）</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1533975/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTUzMzk3NQ==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1512564/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTUxMjU2NA==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="趣炫游戏" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636447238002983125.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>趣炫游戏</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">国内移动网络游戏研发商与发行运营商</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7794794.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzc5NDc5NA==" target="_blank"><p>[广州] 游戏运维工程师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7794796.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzc5NDc5Ng==" target="_blank"><p>[广州] 系统策划</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1512564/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTUxMjU2NA==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1479783/?promotionfrom=MV9NYXlsaW5fMTQ3OTc4Mw==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="联合服务" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636435177026411858.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>联合服务</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">大中华为基础，亚太区为辐射区域的信息服务类企业</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7580705.html?promotionfrom=Ml9NYXlsaW5fNzU4MDcwNQ==" target="_blank"><p>[北京] 管理培训生-IT营销方向</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7569086.html?promotionfrom=Ml9NYXlsaW5fNzU2OTA4Ng==" target="_blank"><p>[北京] helpdesk 桌面运维实习生</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1479783/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTQ3OTc4Mw==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1502182/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTUwMjE4Mg==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="上海交通大学BioX研究院" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636447239401216423.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>上海交通大学BioX研究院</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">为研究人员和学生提供学术思想和信息交流的“家”</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7646980.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzY0Njk4MA==" target="_blank"><p>[上海] 科研助理</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7787610.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzc4NzYxMA==" target="_blank"><p>[上海] 讲师/助理研究员</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1502182/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTUwMjE4Mg==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1433430/?promotionfrom=MV9NYXlsaW5fMTQzMzQzMA==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="烟台星商电子" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636435171353495052.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>烟台星商电子</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">涉足国际电子商务，移动计算，以及互联网数据挖掘等领域</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7498262.html?promotionfrom=Ml9NYXlsaW5fNzQ5ODI2Mg==" target="_blank"><p>[烟台] 数据分析员</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7498253.html?promotionfrom=Ml9NYXlsaW5fNzQ5ODI1Mw==" target="_blank"><p>[烟台] 战略运营分析</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1433430/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTQzMzQzMA==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/242661/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMjQyNjYx" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="太极云软" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636435146927811110.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>太极云软</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">云计算先导企业，电子政务领军企业</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7787611.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzc4NzYxMQ==" target="_blank"><p>[深圳] Java研发工程师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7787612.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzc4NzYxMg==" target="_blank"><p>[深圳] 实施工程师</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/242661/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMjQyNjYx" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1511953/?promotionfrom=MV9NYXlsaW5fMTUxMTk1Mw==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="时代装饰" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636431423101545039.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>时代装饰</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">以大型公建和城市综合体装饰装修以及批量住宅精装修为主营业务</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7693966.html?promotionfrom=Ml9NYXlsaW5fNzY5Mzk2Ng==" target="_blank"><p>[广州] 深化设计师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7693957.html?promotionfrom=Ml9NYXlsaW5fNzY5Mzk1Nw==" target="_blank"><p>[深圳] 资料员</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1511953/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTUxMTk1Mw==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1536370/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTUzNjM3MA==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="武汉数文科技有限公司" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636435131160063854.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>武汉数文科技有限公司</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">国内领先的数字文化遗产管理整体解决方案提供商和平台运营商</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7790842.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzc5MDg0Mg==" target="_blank"><p>[武汉] GIS开发工程师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7791377.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzc5MTM3Nw==" target="_blank"><p>[武汉] 解决方案顾问</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1536370/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTUzNjM3MA==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1472741/?promotionfrom=MV9NYXlsaW5fMTQ3Mjc0MQ==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="开思基金" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636417020986541414.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>开思基金</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">保持简单、追求卓越。专注研究及投资以外币交易或在境外上巿的中国公司</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7716623.html?promotionfrom=Ml9NYXlsaW5fNzcxNjYyMw==" target="_blank"><p>[上海] 医药方向投研部实习生</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7716621.html?promotionfrom=Ml9NYXlsaW5fNzcxNjYyMQ==" target="_blank"><p>[上海] 投研部实习生</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1472741/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTQ3Mjc0MQ==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1498886/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTQ5ODg4Ng==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="深圳天安骏业" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636423826888149975.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>深圳天安骏业</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">服务中小微企业成长，打造企业面向世界竞争的平台，推动城市向更高目标迈进</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7629340.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzYyOTM0MA==" target="_blank"><p>[深圳] 战略投资岗</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7629342.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzYyOTM0Mg==" target="_blank"><p>[深圳] 财务管理岗</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1498886/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTQ5ODg4Ng==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1497616/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTQ5NzYxNg==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="瀚亚资本" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636416992620851339.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>瀚亚资本</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">为高净值客户提供全面金融解决方案的卓越财富管理机构</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7617716.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzYxNzcxNg==" target="_blank"><p>[上海] 培训助理</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7616803.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzYxNjgwMw==" target="_blank"><p>[上海] 私募基金理财经理</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1497616/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTQ5NzYxNg==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1298757/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTI5ODc1Nw==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="上海云砺信息科技" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636416980217861978.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>上海云砺信息科技</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">致力于企业云计算软件服务领域行业解决方案的研发及应用</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7611194.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzYxMTE5NA==" target="_blank"><p>[上海] HR实习生</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/6995058.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNjk5NTA1OA==" target="_blank"><p>[上海] 管培生/总助</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1298757/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTI5ODc1Nw==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1499933/?promotionfrom=MV9NYXlsaW5fMTQ5OTkzMw==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="德科信息" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636410971476548068.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>德科信息</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">业界领先的咨询服务、解决方案服务、IT外包服务以及高科技产品代理销售</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7629022.html?promotionfrom=Ml9NYXlsaW5fNzYyOTAyMg==" target="_blank"><p>[广州] Web前端开发</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7629016.html?promotionfrom=Ml9NYXlsaW5fNzYyOTAxNg==" target="_blank"><p>[广州] Java开发工程师</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1499933/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTQ5OTkzMw==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1499343/?promotionfrom=MV9NYXlsaW5fMTQ5OTM0Mw==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="麦迪睿" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636410973382871417.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>麦迪睿</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">国内首家致力为医疗器械全产业链提供一站式创新增值服务的科技型公司</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7640880.html?promotionfrom=Ml9NYXlsaW5fNzY0MDg4MA==" target="_blank"><p>[武汉] Web开发工程师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7640879.html?promotionfrom=Ml9NYXlsaW5fNzY0MDg3OQ==" target="_blank"><p>[武汉] APP开发工程师</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1499343/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTQ5OTM0Mw==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1511436/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTUxMTQzNg==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="腰果公考" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636410943329418630.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>腰果公考</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">创新性在线教育平台，提供一站式“公务员考试”线上培训服务</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7690318.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzY5MDMxOA==" target="_blank"><p>[北京] 实习PHP工程师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7690316.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzY5MDMxNg==" target="_blank"><p>[北京] 公务员教师储备生</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1511436/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTUxMTQzNg==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1510866/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTUxMDg2Ng==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="伯乐管理" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636410947452817873.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>伯乐管理</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">世界第五大的人力资源服务提供商RGF的全资附属公司</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7685337.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzY4NTMzNw==" target="_blank"><p>[北京] 助理顾问</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7685336.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzY4NTMzNg==" target="_blank"><p>[北京] 行政助理</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1510866/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTUxMDg2Ng==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1341218/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTM0MTIxOA==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="武汉远大制药" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636404909612274369.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>武汉远大制药</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">顺应国际医药发展的潮流，以世界医药经济竞争的强者为目标而不懈努力</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7293453.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzI5MzQ1Mw==" target="_blank"><p>[武汉] 人力资源管理培训生</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7192577.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzE5MjU3Nw==" target="_blank"><p>[北京] 管理培训生-市场方向</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1341218/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTM0MTIxOA==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1326542/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTMyNjU0Mg==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="德国英飞凌科技" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636404907049969869.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>德国英飞凌科技</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">通过半导体和系统解决方案，致力实现能源效率、通讯、安全三大挑战</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7639444.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzYzOTQ0NA==" target="_blank"><p>[上海] Intern-战略市场与发展部实习生</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7639445.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzYzOTQ0NQ==" target="_blank"><p>[上海]  intern-汽车电子硬件工程师助理</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1326542/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTMyNjU0Mg==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1350936/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTM1MDkzNg==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="冰狮科技" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636398859132513284.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>冰狮科技</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">一家跨平台的移动单机及网络游戏的供应商和发行商</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7466718.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzQ2NjcxOA==" target="_blank"><p>[成都] 游戏策划</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7466724.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzQ2NjcyNA==" target="_blank"><p>[成都] Unity 3D手游程序</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1350936/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTM1MDkzNg==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1498846/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTQ5ODg0Ng==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="杭州绿仰科技" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636398848779243099.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>杭州绿仰科技</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">产品涵盖了医疗行业的关键热点并符合医疗信息化的未来发展趋势</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7622638.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzYyMjYzOA==" target="_blank"><p>[广州] 项目工程师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7623679.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzYyMzY3OQ==" target="_blank"><p>[上海] 销售工程师</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1498846/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTQ5ODg0Ng==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1499151/?promotionfrom=MV9NYXlsaW5fMTQ5OTE1MQ==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="前瞻资讯" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636401129897496999.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>前瞻资讯</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">中国最大规模的专业市场研究机构</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7624304.html?promotionfrom=Ml9NYXlsaW5fNzYyNDMwNA==" target="_blank"><p>[深圳] 产业规划师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7624171.html?promotionfrom=Ml9NYXlsaW5fNzYyNDE3MQ==" target="_blank"><p>[深圳] 研究员</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1499151/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTQ5OTE1MQ==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1497335/?promotionfrom=MV9NYXlsaW5fMTQ5NzMzNQ==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="泰帝科技" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636401127635025026.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>泰帝科技</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">专业从事研发、生产、销售刀具及磨刀器的高新技术制造企业</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7615601.html?promotionfrom=Ml9NYXlsaW5fNzYxNTYwMQ==" target="_blank"><p>[中山] 产品管理员</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7615863.html?promotionfrom=Ml9NYXlsaW5fNzYxNTg2Mw==" target="_blank"><p>[中山] 平台运营员</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1497335/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTQ5NzMzNQ==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1345515/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTM0NTUxNQ==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="云序生物" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636395086831706835.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>云序生物</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">集科研服务、医学检测、产品研发于一体的高新技术企业</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7206292.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzIwNjI5Mg==" target="_blank"><p>[上海] 高通量技术支持（生物基因科研）</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7252624.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzI1MjYyNA==" target="_blank"><p>[上海] 行政前台/助理</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1345515/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTM0NTUxNQ==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1496897/?promotionfrom=MV9NYXlsaW5fMTQ5Njg5Nw==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="汉唐自远" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636392809968707736.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>汉唐自远</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">立足教育、医疗两大民生行业的可视化数据行业云平台</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7615585.html?promotionfrom=Ml9NYXlsaW5fNzYxNTU4NQ==" target="_blank"><p>[北京] 移动端开发工程师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7615578.html?promotionfrom=Ml9NYXlsaW5fNzYxNTU3OA==" target="_blank"><p>[北京] 管理培训生</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1496897/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTQ5Njg5Nw==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1425707/?promotionfrom=MV9NYXlsaW5fMTQyNTcwNw==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="安科瑞" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636392807465059339.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>安科瑞</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">集研发、生产、销售于一体的高新技术企业</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7460593.html?promotionfrom=Ml9NYXlsaW5fNzQ2MDU5Mw==" target="_blank"><p>[江阴] 硬件研发工程师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7460595.html?promotionfrom=Ml9NYXlsaW5fNzQ2MDU5NQ==" target="_blank"><p>[江阴] .net软件工程师</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1425707/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTQyNTcwNw==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/542979/?promotionfrom=MV9NYXlsaW5fNTQyOTc5" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="依米教育集团" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636386771269949087.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>依米教育集团</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">专注于个性化学科辅导</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7566522.html?promotionfrom=Ml9NYXlsaW5fNzU2NjUyMg==" target="_blank"><p>[杭州] 网络运营专员</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7613210.html?promotionfrom=Ml9NYXlsaW5fNzYxMzIxMA==" target="_blank"><p>[杭州] 总裁秘书</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/542979/jobs-1.html?promotionFrom=NV9NYXlsaW5fNTQyOTc5" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1496630/?promotionfrom=MV9NYXlsaW5fMTQ5NjYzMA==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="三安光电" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636386772450403161.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>三安光电</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">全色系超高亮度发光二极管外延及芯片产业化生产基地</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7613195.html?promotionfrom=Ml9NYXlsaW5fNzYxMzE5NQ==" target="_blank"><p>[厦门] 外延工艺工程师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7613198.html?promotionfrom=Ml9NYXlsaW5fNzYxMzE5OA==" target="_blank"><p>[厦门] 芯片工艺工程师</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1496630/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTQ5NjYzMA==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1496568/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTQ5NjU2OA==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="上海希为投资" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636386717782218506.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>上海希为投资</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">一家专门从事国际高端会议策划及承办的公司</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7613012.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzYxMzAxMg==" target="_blank"><p>[上海] 会议策划</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7613011.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzYxMzAxMQ==" target="_blank"><p>[上海] 海外销售</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1496568/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTQ5NjU2OA==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1496570/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTQ5NjU3MA==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="复星医药" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636386720031898457.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>复星医药</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">拥有领先地位的医疗健康产业集团</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7613010.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzYxMzAxMA==" target="_blank"><p>[上海] 人力资源（招聘）实习生</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7613009.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzYxMzAwOQ==" target="_blank"><p>[上海] 董秘办</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1496570/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTQ5NjU3MA==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1287672/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTI4NzY3Mg==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="冠泰生物科技" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636382989044180690.gif" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>冠泰生物科技</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">专注于为中国市场专业提供生命科学领域技术服务</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/6914576.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNjkxNDU3Ng==" target="_blank"><p>[上海] 生物技术部实习生/应届毕业生</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/6914574.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNjkxNDU3NA==" target="_blank"><p>[上海] 商务助理</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1287672/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTI4NzY3Mg==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1482911/?promotionfrom=MV9NYXlsaW5fMTQ4MjkxMQ==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="天津明源云" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636380978913064414.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>天津明源云</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">国内领先的地产生态链“互联网+”服务商</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7576845.html?promotionfrom=Ml9NYXlsaW5fNzU3Njg0NQ==" target="_blank"><p>[天津] 云服务实施顾问</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7576844.html?promotionfrom=Ml9NYXlsaW5fNzU3Njg0NA==" target="_blank"><p>[天津] ERP产品实施顾问</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1482911/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTQ4MjkxMQ==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/904974/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fOTA0OTc0" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="瑞格丝" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636374666882350446.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>瑞格丝</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">一个专业的全球跨境生鲜电子商务平台</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7074626.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzA3NDYyNg==" target="_blank"><p>[上海] 客服专员</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7452191.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzQ1MjE5MQ==" target="_blank"><p>[上海] 财务实习生</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/904974/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fOTA0OTc0" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1360568/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTM2MDU2OA==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="三全食品" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636374679035395792.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>三全食品</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">以生产速冻食品为主的股份制企业，销量多年位居国内行业第一</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7250860.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzI1MDg2MA==" target="_blank"><p>[广州] 物流专员</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7250856.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzI1MDg1Ng==" target="_blank"><p>[深圳] 销售管培生</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1360568/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTM2MDU2OA==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/447130/?promotionfrom=MV9NYXlsaW5fNDQ3MTMw" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="昆山统实" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636376998089263071.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>昆山统实</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">台湾统一实业股份有限公司投资成立的外商独资企业</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7525881.html?promotionfrom=Ml9NYXlsaW5fNzUyNTg4MQ==" target="_blank"><p>[昆山] 品管技术员</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7525882.html?promotionfrom=Ml9NYXlsaW5fNzUyNTg4Mg==" target="_blank"><p>[昆山] 资讯专员</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/447130/jobs-1.html?promotionFrom=NV9NYXlsaW5fNDQ3MTMw" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1258727/?promotionfrom=MV9NYXlsaW5fMTI1ODcyNw==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="恒生地产" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636376998234811327.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>恒生地产</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">港商独资、香港红筹架构企业，国家一级开发资质、AAA级信用企业</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7314274.html?promotionfrom=Ml9NYXlsaW5fNzMxNDI3NA==" target="_blank"><p>[济南] 投资营销类应届毕业生</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7314273.html?promotionfrom=Ml9NYXlsaW5fNzMxNDI3Mw==" target="_blank"><p>[济南] 财务类应届毕业生</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1258727/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTI1ODcyNw==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1282297/?promotionfrom=MV9NYXlsaW5fMTI4MjI5Nw==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="青松科技" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636376998344011518.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>青松科技</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">专业的LED应用产品解决方案提供商和服务商</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7246693.html?promotionfrom=Ml9NYXlsaW5fNzI0NjY5Mw==" target="_blank"><p>[佛山] 机械工程师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/6907129.html?promotionfrom=Ml9NYXlsaW5fNjkwNzEyOQ==" target="_blank"><p>[佛山] 硬件工程师</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1282297/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTI4MjI5Nw==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1473213/?promotionfrom=MV9NYXlsaW5fMTQ3MzIxMw==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="存票" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636368644721956556.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>存票</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">基于移动互联网的本地生活服务平台，消费金融和移动支付的解决方案服务商</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7551141.html?promotionfrom=Ml9NYXlsaW5fNzU1MTE0MQ==" target="_blank"><p>[上海] 投资分析师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7551139.html?promotionfrom=Ml9NYXlsaW5fNzU1MTEzOQ==" target="_blank"><p>[上海] 审计专员</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1473213/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTQ3MzIxMw==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/916931/?promotionfrom=MV9NYXlsaW5fOTE2OTMx" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="巴德医疗" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636364923762424476.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>巴德医疗</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">百年悠久历史并致力于推广具有世界领先水平的医疗技术和产品的跨国企业</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7348585.html?promotionfrom=Ml9NYXlsaW5fNzM0ODU4NQ==" target="_blank"><p>[上海] 市场部实习生 Mkt Intern</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7304322.html?promotionfrom=Ml9NYXlsaW5fNzMwNDMyMg==" target="_blank"><p>[上海] 助理数据分析员</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/916931/jobs-1.html?promotionFrom=NV9NYXlsaW5fOTE2OTMx" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/803729/?promotionfrom=MV9NYXlsaW5fODAzNzI5" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="林氏木业" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636364922175960660.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>林氏木业</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">互联网家具行业第一品牌，集设计、生产、销售、服务于一体</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7151672.html?promotionfrom=Ml9NYXlsaW5fNzE1MTY3Mg==" target="_blank"><p>[西安] 管理培训生/家具顾问/储备店长（全国）</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/6728572.html?promotionfrom=Ml9NYXlsaW5fNjcyODU3Mg==" target="_blank"><p>[佛山] UI设计师</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/803729/jobs-1.html?promotionFrom=NV9NYXlsaW5fODAzNzI5" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1406418/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fMTQwNjQxOA==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="礼多多" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636365160912094748.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>礼多多</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">国内最大的纯互联网渠道运营商，中国电商领域的领跑者</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7377614.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzM3NzYxNA==" target="_blank"><p>[上海] 储备干部</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7529463.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNzUyOTQ2Mw==" target="_blank"><p>[上海] 人事助理（实习）</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1406418/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fMTQwNjQxOA==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1358366/?promotionfrom=MV9NYXlsaW5fMTM1ODM2Ng==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="郑州睿信" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636356542755354621.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>郑州睿信</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">综合性知识产权代理机构，全方位的知识产权法律服务</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7245730.html?promotionfrom=Ml9NYXlsaW5fNzI0NTczMA==" target="_blank"><p>[郑州] 专利代理（机械设计制造及其自动化/机械工程/机械类等）</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7245727.html?promotionfrom=Ml9NYXlsaW5fNzI0NTcyNw==" target="_blank"><p>[郑州] 机械专利工程师（机械设计/机电一体化/车辆工程/材料成型）</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1358366/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTM1ODM2Ng==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/897653/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fODk3NjUz" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="中国人民保险公司" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636356541248703974.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>中国人民保险公司</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">以“稳增长、重价值、强基础”为发展战略，致力于打造国内一流的寿险公司</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/5843564.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNTg0MzU2NA==" target="_blank"><p>[北京] 保险规划师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/5984932.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNTk4NDkzMg==" target="_blank"><p>[北京] 团险业务岗（中石化集团、百度公司、政府项目）</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/897653/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fODk3NjUz" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/876858/?promotionfrom=MV9jMTAyOEB0b3B1Yy5jb21fODc2ODU4" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="上海飞科" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636356537703285747.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>上海飞科</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">飞科是一家以“技术研发”和“品牌运营”为核心竞争力</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/5736825.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNTczNjgyNQ==" target="_blank"><p>[上海] 产品研发助理工程师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/5892932.html?promotionfrom=Ml9jMTAyOEB0b3B1Yy5jb21fNTg5MjkzMg==" target="_blank"><p>[上海] 电子技术员</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/876858/jobs-1.html?promotionFrom=NV9jMTAyOEB0b3B1Yy5jb21fODc2ODU4" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1389664/?promotionfrom=MV9NYXlsaW5fMTM4OTY2NA==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="创业酵母" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636356537828397967.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>创业酵母</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">发掘、陪伴、成就未来新商业领袖，成为全球顶级企业服务提供商</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7305251.html?promotionfrom=Ml9NYXlsaW5fNzMwNTI1MQ==" target="_blank"><p>[北京] 猎头顾问/助理顾问(实习岗)</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7305250.html?promotionfrom=Ml9NYXlsaW5fNzMwNTI1MA==" target="_blank"><p>[北京] 猎头顾问/助理顾问（全职岗）</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1389664/jobs-1.html?promotionFrom=NV9NYXlsaW5fMTM4OTY2NA==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1407295/?promotionfrom=MV9fMTQwNzI5NQ==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="中国纸业" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636350477558772741.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>中国纸业</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">央企中唯一一家以林浆纸生产、开发利用为主业的国有大型企业</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7520332.html?promotionfrom=Ml9fNzUyMDMzMg==" target="_blank"><p>[北京] 贸易业务助理</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7439118.html?promotionfrom=Ml9fNzQzOTExOA==" target="_blank"><p>[北京] 2017应届生-贸易文员</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1407295/jobs-1.html?promotionFrom=NV9fMTQwNzI5NQ==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1358380/?promotionfrom=MV9fMTM1ODM4MA==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="重庆电力建设总公司" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636350474406787205.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>重庆电力建设总公司</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">成立于1952年，中国电力建设集团有限公司全资子公司</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7246027.html?promotionfrom=Ml9fNzI0NjAyNw==" target="_blank"><p>[重庆] 电气工程师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7246070.html?promotionfrom=Ml9fNzI0NjA3MA==" target="_blank"><p>[重庆] 热动工程师</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1358380/jobs-1.html?promotionFrom=NV9fMTM1ODM4MA==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/68537/?promotionfrom=MV9fNjg1Mzc=" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="优克锡企业管理" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/635956489343017840.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>优克锡企业管理</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">优生活 优工作——遇见优克锡,遇见最优的自己</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7156147.html?promotionfrom=Ml9fNzE1NjE0Nw==" target="_blank"><p>[广州] 招聘专员</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/3986050.html?promotionfrom=Ml9fMzk4NjA1MA==" target="_blank"><p>[广州] 管理培训生</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/68537/jobs-1.html?promotionFrom=NV9fNjg1Mzc=" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/345589/?promotionfrom=MV9fMzQ1NTg5" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="爱福窝" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/635791496131386069.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>爱福窝</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">天猫战略合作伙伴，在线家装设计及家居互联网营销</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7549496.html?promotionfrom=Ml9fNzU0OTQ5Ng==" target="_blank"><p>[上海] 家居顾问</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7549497.html?promotionfrom=Ml9fNzU0OTQ5Nw==" target="_blank"><p>[上海] 销售行政助理</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/345589/jobs-1.html?promotionFrom=NV9fMzQ1NTg5" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1471618/?promotionfrom=MV9fMTQ3MTYxOA==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="Faro Recruitment" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636344477764818020.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>Faro Recruitment</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">International staffing solutions provider in Asia-Pacific and Oceania</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7546058.html?promotionfrom=Ml9fNzU0NjA1OA==" target="_blank"><p>[佛山] Associate, GBM KYCS(佛山, CN)</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7546057.html?promotionfrom=Ml9fNzU0NjA1Nw==" target="_blank"><p>[上海] 猎头顾问助理</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1471618/jobs-1.html?promotionFrom=NV9fMTQ3MTYxOA==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1461336/?promotionfrom=MV9fMTQ2MTMzNg==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="北京天和恒信咨询" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636342413859463042.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>北京天和恒信咨询</span>
+                                </div>
+                            </a>
+                            <p class="com-summary">致力于为中国学子提供高度专业化的教育咨询解决方案</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7520637.html?promotionfrom=Ml9fNzUyMDYzNw==" target="_blank"><p>[北京] 人事专员</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7520636.html?promotionfrom=Ml9fNzUyMDYzNg==" target="_blank"><p>[北京] 行政助理</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1461336/jobs-1.html?promotionFrom=NV9fMTQ2MTMzNg==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1096235/?promotionfrom=MV9fMTA5NjIzNQ==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="KPMG" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636304412092024542.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>KPMG</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">毕马威中国，专门提供审计、税务和咨询等服务</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7235651.html?promotionfrom=Ml9fNzIzNTY1MQ==" target="_blank"><p>[天津] 毕马威管理咨询实习生</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7231614.html?promotionfrom=Ml9fNzIzMTYxNA==" target="_blank"><p>[北京] 毕马威STR Intern</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1096235/jobs-1.html?promotionFrom=NV9fMTA5NjIzNQ==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/821541/?promotionfrom=MV9fODIxNTQx" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="读书郎电子有限公司" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636308054846918094.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>读书郎电子有限公司</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">国内最具实力和品牌影响力的教育电子产品研发企业之一</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7466049.html?promotionfrom=Ml9fNzQ2NjA0OQ==" target="_blank"><p>[中山] 多媒体课件制作</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7466047.html?promotionfrom=Ml9fNzQ2NjA0Nw==" target="_blank"><p>[中山] 数理化教材编审</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/821541/jobs-1.html?promotionFrom=NV9fODIxNTQx" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/215849/?promotionfrom=MV9fMjE1ODQ5" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="诺尔" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636298327161536833.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>诺尔</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">全国领先的高档消费品物流服务商</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7424456.html?promotionfrom=Ml9fNzQyNDQ1Ng==" target="_blank"><p>[北京] 管理培训生</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7424453.html?promotionfrom=Ml9fNzQyNDQ1Mw==" target="_blank"><p>[上海] IT项目专员</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/215849/jobs-1.html?promotionFrom=NV9fMjE1ODQ5" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/1258742/?promotionfrom=MV9fMTI1ODc0Mg==" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="人民网" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/636032263565023050.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>人民网</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">人民日报社控股的上市公司，国际互联网上最大的综合性网络媒体之一</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7234072.html?promotionfrom=Ml9fNzIzNDA3Mg==" target="_blank"><p>[北京] 实习UI设计师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7201978.html?promotionfrom=Ml9fNzIwMTk3OA==" target="_blank"><p>[北京] 英文实习编辑</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/1258742/jobs-1.html?promotionFrom=NV9fMTI1ODc0Mg==" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/355470/?promotionfrom=MV9fMzU1NDcw" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="微店" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/635963432195858357.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>微店</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">致力于移动互联网购物领域的全球领先电商平台</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/6862000.html?promotionfrom=Ml9fNjg2MjAwMA==" target="_blank"><p>[北京] Android开发工程师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/6861999.html?promotionfrom=Ml9fNjg2MTk5OQ==" target="_blank"><p>[北京] Java开发工程师</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/355470/jobs-1.html?promotionFrom=NV9fMzU1NDcw" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/222295/?promotionfrom=MV9fMjIyMjk1" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="途高科技" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/635890657327212542.png" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>途高科技</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">全国领先家居领域电子商务平台</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/3167846.html?promotionfrom=Ml9fMzE2Nzg0Ng==" target="_blank"><p>[杭州] 管理培训生</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/6942810.html?promotionfrom=Ml9fNjk0MjgxMA==" target="_blank"><p>[杭州] Android开发工程师</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/222295/jobs-1.html?promotionFrom=NV9fMjIyMjk1" target="_blank">查看全部职位</a>
+                        </li>
+                        <li class="appear">
+                            <a href="http://company.zheyibu.com/878190/?promotionfrom=MV9fODc4MTkw" target="_blank">
+                                <img src="http://static.zheyibu.com/student/images/article/homepage-default-logo.png" class="lazy" alt="涂鸦移动" data-original="http://admin.zheyibu.com/Upload/CompanyRecommend/635963342326777086.jpg" width="140" height="68" />
+                                <div class="part2-listHeader">
+                                    <span>涂鸦移动</span>
+                                        <i title="这一步认证企业"></i>
+                                </div>
+                            </a>
+                            <p class="com-summary">专注Android平台的世界级移动互联网游戏公司</p>
+                            <div class="delay-list">
+                                    <a href="http://www.zheyibu.com/job/7157858.html?promotionfrom=Ml9fNzE1Nzg1OA==" target="_blank"><p>[北京] 3D游戏美术设计师</p></a>
+                                                                    <a href="http://www.zheyibu.com/job/7226459.html?promotionfrom=Ml9fNzIyNjQ1OQ==" target="_blank"><p>[北京] 人力资源实习生</p></a>
+                            </div>
+
+                            <a class="position-more" href="http://company.zheyibu.com/878190/jobs-1.html?promotionFrom=NV9fODc4MTkw" target="_blank">查看全部职位</a>
+                        </li>
+                </ul>
+            </div>
+            <!-- 校园招聘推荐企业 end -->
+        </div>
+    </div>
+    <!-- Footer Banner start -->
+    
+
+    <!--登录前-->
+    <div class="homepage-part3 homepage-part-scroll">
+        <a href="/account/register/"></a>
+    </div>
+
+    <!-- Footer Banner end -->
+    <div class="link-friend">
+        <!-- 常用链接 start -->
+        <div class="homepage-part4">
+            <p>常用链接</p>
+            <ul class="link-part1">
+                <li><a href="http://job.zheyibu.com/" target="_blank">职位排行榜</a></li>
+                <li><a href="/quanzhi/" target="_blank">找工作</a></li>
+                <li><a href="http://function.zheyibu.com/" target="_blank">职能职位</a></li>
+                <li><a href="/xuanjianghui/" target="_blank">宣讲会</a></li>
+                
+                <li><a href="/shixi/" target="_blank">找实习</a></li>
+                <li><a href="/article/" target="_blank">求职指导</a></li>
+                <li><a href="/beijing/" target="_blank">北京校园招聘</a></li>
+                <li><a href="/shanghai/" target="_blank">上海校园招聘</a></li>
+                <li class="iClick"></li>
+            </ul>
+            <ul class="link-part2">
+                <li><a href="/guangzhou/" target="_blank">广州校园招聘</a></li>
+                <li><a href="/shenzhen/" target="_blank">深圳校园招聘</a></li>
+                <li><a href="/xian/" target="_blank">西安校园招聘</a></li>
+                <li><a href="/qiye/a/" target="_blank">企业</a></li>
+                <li><a href="http://enterprise.zheyibu.com/hrshare" target="_blank">校园招聘攻略</a></li>
+                <li><a href="http://www.zheyibu.com/zhuanye/" target="_blank">专业解析</a></li>
+                <li><a href="http://www.zheyibu.com//wenda/" target="_blank">公司问答</a></li>
+            </ul>
+                <p>合作伙伴</p>
+                <ul class="link-part3">
+                        <li><a href="http://www.topuc.com/" target="_blank">Top猎头公司</a></li>
+                        <li><a href="http://cs.1010jz.com " target="_blank">长沙兼职网</a></li>
+                        <li><a href="http://hengyang.offcn.com/ " target="_blank">衡阳公务员考试网</a></li>
+                        <li><a href="http://www.51msf.com/" target="_blank">码上返</a></li>
+                        <li><a href="http://www.loyaltynt.com/" target="_blank">上海仁新网络</a></li>
+                        <li><a href="http://www.liaoshenrc.com/" target="_blank">辽宁人才网</a></li>
+                        <li><a href="http://www.huaxirc.com/" target="_blank">四川招聘网</a></li>
+                        <li><a href="http://www.yixue99.com/ " target="_blank">医疗卫生人才网</a></li>
+                        <li><a href="http://www.guangdongrc.com" target="_blank">广东人才网</a></li>
+                    <li class="iClick"></li>
+                </ul>
+                <ul class="link-part4">
+                        <li><a href="http://www.yundianrc.com" target="_blank">云南人才网</a></li>
+                        <li><a href="http://zz.xiaoxiangrc.com/" target="_blank">株洲招聘网</a></li>
+                        <li><a href="http://www.doorhr.com/" target="_blank">门业人才网</a></li>
+                        <li><a href="http://www.xszrcw.com" target="_blank">苏州人才网</a></li>
+                        <li><a href="http://www.zqrsrc.com" target="_blank">章丘招聘</a></li>
+                        <li><a href="http://www.pigerencai.com" target="_blank">皮革人才网</a></li>
+                        <li><a href="http://www.mcmqyc.com" target="_blank">幕墙招聘网</a></li>
+                        <li><a href="http://news.cfw.cn" target="_blank">服装新闻网</a></li>
+                        <li><a href="http://shanghai.138job.com/" target="_blank">上海美容人才网</a></li>
+                        <li><a href="http://www.huapinwang.com" target="_blank">合肥人才网</a></li>
+                        <li><a href="http://www.lprcw.com/" target="_blank">梁平人才网</a></li>
+                        <li><a href="http://www.jiudianzhaopin.com/ " target="_blank">中国酒店招聘网</a></li>
+                        <li><a href="http://xuancheng.offcn.com/" target="_blank">宣城人事考试</a></li>
+                        <li><a href="http://career-english.yjbys.com" target="_blank">职场英语</a></li>
+                        <li><a href="http://www.0598rc.com" target="_blank">三明人才网</a></li>
+                        <li><a href="http://www.pzsns.com" target="_blank">邳州招聘网</a></li>
+                        <li><a href="http://www.nnjob.com" target="_blank">南宁人才网</a></li>
+                        <li><a href="http://www.chinahr.com/wuxi/" target="_blank">无锡招聘</a></li>
+                        <li><a href="http://www.hr0766.com" target="_blank">云浮招聘网</a></li>
+                        <li><a href="http://www.0902rc.com" target="_blank">哈密英才网</a></li>
+                        <li><a href="http://www.36zm.com/" target="_blank">中国照明人才网</a></li>
+                        <li><a href="http://www.114hr.net" target="_blank">河南人才网</a></li>
+                        <li><a href="http://www.jilinzhaopin.com" target="_blank">中易招聘网</a></li>
+                        <li><a href="http://www.medrc.net/" target="_blank">医疗人才网</a></li>
+                        <li><a href="http://www.011job.com/" target="_blank">阜阳人事人才网</a></li>
+                        <li><a href="http://www.qyjob.com.cn " target="_blank">沁阳招聘</a></li>
+                        <li><a href="http://www.mqzgz.cn" target="_blank">民权招聘</a></li>
+                        <li><a href="http://www.job768.com/" target="_blank">辉煌招聘</a></li>
+                        <li><a href="http://hbjob.bjx.com.cn/" target="_blank">环保招聘</a></li>
+                        <li><a href="http://www.job5156.com/hengyang/" target="_blank">衡阳招聘网</a></li>
+                        <li><a href="http://www.best73.com" target="_blank">优质企商网</a></li>
+                        <li><a href="http://www.job2299.com" target="_blank">监理人才网</a></li>
+                        <li><a href="http://www.hrrcw.com" target="_blank">怀柔人才网</a></li>
+                        <li><a href="http://www.51zhucai.com" target="_blank">筑才人才网</a></li>
+                        <li><a href="http://www.geren-jianli.org" target="_blank">简历模板</a></li>
+                        <li><a href="http://www.yzzp.com" target="_blank">邯郸人才网</a></li>
+                        <li><a href="http://www.job02.cn" target="_blank">临安人才网</a></li>
+                        <li><a href="http://www.hr0759.com/ " target="_blank">湛江招聘网</a></li>
+                        <li><a href="http://www.zhangshushi.com" target="_blank">樟树人才网</a></li>
+                        <li><a href="http://www.133jz.com" target="_blank">兼职网</a></li>
+                        <li><a href="http://www.ssjzw.com" target="_blank">兼职网</a></li>
+                        <li><a href="http://www.nnzp.com/" target="_blank">南宁招聘网</a></li>
+                </ul>
+        </div>
+        <!-- 常用链接 end -->
+    </div>
+</div>
+
+
+    <!-- Homepage Footer start-->
+    <div class="homepage-footer">
+        <div class="footer-container">
+            <a href="http://www.zheyibu.com/about/##about">关于我们</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+            <a href="http://www.zheyibu.com/about/news/##news">新闻报道</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+            <a href="http://www.zheyibu.com/about/life/##life">员工生活</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+            <a href="http://company.zheyibu.com/359515/jobs-1.html">加入我们</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+            <a href="http://www.zheyibu.com/about/contact/##contact">联系我们</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+            <a href="http://www.zheyibu.com/userprotocal">用户协议</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+            <a href="http://enterprise.zheyibu.com">企业入口</a>
+            <p class="copyright">Copyright © 2013 zheyibu.com All Rights Reserved 京ICP备13008645号-1</p> 
+            <p class="copyright">未经zheyibu.com许可，不得转载本网站所有招聘信息及作品</p>
+        </div>
+    </div>
+    <!-- Homepage Footer end-->
+    <!-- Body end -->
+    <script src="http://static.zheyibu.com/lib/js/student/shortcutMenu.js?u=dcefeda1-7c33-402f-aef2-07aa994e2727"></script>
+    
+    <script src="http://static.zheyibu.com/lib/js/student/layerAlertMask.js?u=10808311-6fac-4f46-be17-94f6fad3d7a1"></script>
+    <script src="http://static.zheyibu.com/lib/js/student/city-picker.js?u=10808311-6fac-4f46-be17-94f6fad3d711"></script>
+    <script src="http://static.zheyibu.com/lib/js/base/uaredirect.min.js?u=dcefeda1-7c33-402f-aef2-07aa994e2727"></script>
+    <script src="http://static.zheyibu.com/lib/js/base/jquery.autocomplete.min.js"></script>
+    <script src="http://static.zheyibu.com/lib/js/base/jquery.lazyload.min.js?u=dcefeda1-7c33-402f-aef2-07aa994e2727"></script>
+    <script src="http://static.zheyibu.com/student/js/homepage/homepage.js?u=215ba1a3-1223-4dcc-86ec-c629e7a2f58c"></script>
+
+    <script>
+        $("#warning-detail").click(function () { var a = $('<div id="layer-mask" class="fade"><div id="warning-content"><div class="warning-header">关于防范虚假招聘的提醒<i></i></div><p class="notice">近来，有不法个人或组织利用各大招聘网站发布虚假招聘信息，通过假冒、伪装知名企业或高薪诱导等手段欺骗学生求职，从而诈骗钱财或从事非法传销！为保护各位同学的利益，这一步将强化招聘公司和职位的审核并建立虚假信息举报机制；同时，也请同学们在求职过程中提高警惕，切勿上当受骗！</p><p class="notice-2">以下是虚假招聘的一般特征，请同学多留意并提高警惕：</p><p>1、招聘单位只有手机单一联系方式；</p><p>2、凡收取“服装费、伙食费、体检费、报名费、办卡费、押金”等各种费用；</p><p>3、几乎不面试就给出录取通知，且到外地就职（警惕卷入任何形式的传销活动）；</p><p>4、薪资明显高于同职位同工种薪资水平；</p><p>5、通知面试职位明显与实际工作岗位不相同，上岗期间索要烟、酒等礼品； </p><p>6、公司地址含糊不清，面试场所不正规，类似临时租借来的宾馆等地； </p><p>7、非正常工作时间段预约面试或者面试地点在很偏远的地方； </p><p>8、扣押或是以保管为名索要身份证、毕业证等证件。</p></div></div>'); a.appendTo("body"); $("#layer-mask").css("display", "block"); setTimeout(delayIn, 100); $("#layer-mask i").click(function () { $("#layer-mask").removeClass("in"); $("#warning-content").removeClass("fadeInDown").addClass("fadeOutUp"); setTimeout(delayOut, 300) }) }); function delayIn() { $("#layer-mask").addClass("in"); $("#warning-content").removeClass("fadeOutUp").addClass("fadeInDown") } function delayOut() { $("#layer-mask").css("display", "none").remove() };
+        //右侧底部公共三页签
+        var shortcut = $("body").shortcut(); shortcut.gotop.init(); shortcut.feedbacklink.init(); $.get("http://www.zheyibu.com/account/getuserwechatbindingticket/", function (b) { if (b.ticket.length > 0) { var a = { img_path: "https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=" + b.ticket }; shortcut.wechat.init(a) } else { var a = { img_path: "http://static.zheyibu.com/images/avatar/QR-code1.png" }; shortcut.wechat.init(a) } });
+    </script>
+    
+    
+    <script type="text/javascript">
+        document.write(unescape("%3Cscript src='http://static.zheyibu.com/zheyibu/components/baidu/baiducc.js' type='text/javascript'%3E%3C/script%3E"));
+        document.write(unescape("%3Cscript src='http://static.zheyibu.com/zheyibu/components/baidu/baiduee.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-59GDPW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>
+        (function (w, d, s, l) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            'http://static.zheyibu.com/zheyibu/components/google/gtm.js' + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer');
+    </script>
+
+</body>
+</html>
