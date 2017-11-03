@@ -70,6 +70,7 @@ DEFAULT_REQUEST_HEADERS = {
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
 	'jobArticelFrom360Doc.pipelines.Jobarticelfrom360DocPipeline': 300,
+	'jobArticelFrom360Doc.pipelines.MyImagePipeline': 1
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -101,3 +102,8 @@ FEED_EXPORTERS_BASE = {
 }
 #FEED_FORMAT = "csv"
 #FEED_URI = "feed_result/result_%(time)s.csv"
+IMAGES_STORE = 'I:\\Scapy\\jobArticelFrom360Doc\\feed_result\\images'
+IMAGES_THUMBS = {
+    'small': (50, 50),
+    'big': (270, 270),
+}

@@ -19,14 +19,14 @@ class DocDetailCrawlerSpider(scrapy.Spider):
 	#self.LoadUrl()
 	start_urls=[]
 	def __init__(self):
-		self.start_urls=self.LoadUrl(self.start_urls)
+		self.start_urls = self.LoadUrl(self.start_urls)
 		#print(self.start_urls)
 
 
 	def LoadUrl(self,start_urls):
 		start_urls=[]
-		for i in range(1,21):
-			filename='I:\\Scapy\\jobArticelFrom360Doc\\jobArticelFrom360Doc\\result\\doclist_%d.json'%i
+		for i in range(1,2):
+			filename = 'I:\\Scapy\\result\\doclist_%d.json'%i
 			if not os.path.exists(filename):
 				continue
 			#print(filename)
@@ -51,7 +51,7 @@ class DocDetailCrawlerSpider(scrapy.Spider):
 		username = usernameArticleId.split('_')[0]
 		articleId = usernameArticleId.split('_')[1]
 		#print(pathparts[-1].split('.')[0])
-		filename = 'I:\\Scapy\\jobArticelFrom360Doc\\jobArticelFrom360Doc\\docresult\\doc_%s.html'%pathparts[-1].split('.')[0]
+		#filename = 'I:\\Scapy\\jobArticelFrom360Doc\\jobArticelFrom360Doc\\docresult\\doc_%s.html'%pathparts[-1].split('.')[0]
 		#body=response.body
 		content = response.selector.xpath('//div[@id="articlecontent"]/table').extract_first()
 		#style="[\s\S^"]*?"|<img[\s\S^>]*?>|<script>[\s\S]*?</script>
@@ -65,14 +65,15 @@ class DocDetailCrawlerSpider(scrapy.Spider):
 		#print(content)
 		page = 1
 		j = 1
-		reviewUrl='http://webservice.360doc.com/GetArtInfo20130912NewV.ashx?GetReflection2=%s,%s,0,%s,%s,%d&jsoncallback=jsonp123'%(articleId,username,page,articleId,j)
-		item=Jobarticelfrom360DocItem()
+		reviewUrl = 'http://webservice.360doc.com/GetArtInfo20130912NewV.ashx?GetReflection2=%s,%s,0,%s,%s,%d&jsoncallback=jsonp123'%(articleId,username,page,articleId,j)
+		item = Jobarticelfrom360DocItem()
 		item['reviewurl'] = response.url
 		item['articleId'] = articleId
 		item['content'] = content
 		item['author'] = author
 		item['date'] = date
 		item['title'] = response.selector.xpath('//h2[@id="titiletext"]/text()').extract_first()
+		item['image_urls'] = response.xpath('//div[@id="articlecontent"]//img/@src').extract()
 		yield item
 		# item={
 		# title:'',

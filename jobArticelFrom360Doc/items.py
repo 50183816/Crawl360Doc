@@ -17,6 +17,8 @@ class Jobarticelfrom360DocItem(scrapy.Item):
     content = scrapy.Field()
     reviewurl = scrapy.Field()
     articleId = scrapy.Field()
+    image_urls = scrapy.Field()
+    image_paths = scrapy.Field()
 
 #
 class ArticleReviewItem(scrapy.Item):

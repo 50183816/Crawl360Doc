@@ -6,6 +6,8 @@
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 import pymongo
 from scrapy.exceptions import DropItem
+from scrapy.pipelines.images import ImagesPipeline
+from scrapy.http import Request
 class Jobarticelfrom360DocPipeline(object):
 	def __init__(self,mongo_uri,mongo_db):
 		self.mongo_uri = mongo_uri
@@ -27,10 +29,29 @@ class Jobarticelfrom360DocPipeline(object):
 			if self.db['360DocReview'].find({'reviewId':item['reviewId']}).count() == 0:
 				self.db['360DocReview'].insert(dict(item))
 		if item.get('reviewurl') and item.get('content'):
-			docItem=item.get('reviewurl')
-			#print('Jobarticelfrom360DocItem received!!!!!!!!!!')
 			if self.db['360DocList'].find({'articleId':item.get('articleId')}).count() == 0:
+				originalImageUrl = item['image_urls']
+				localImageUrl = item['image_paths']
+				zippedImage = zip(originalImageUrl,localImageUrl)
+				for image in list(zippedImage):
+					item['content'] = item['content'].replace(image[0],'http://static.zheyibu.com/careerdoc/images/'+image[1])
 				self.db['360DocList'].insert(dict(item))
-			#return item.get('request')
+			#return item
 		else:
 			raise DropItem('Empty item')
+
+class MyImagePipeline(ImagesPipeline):
+	def get_media_requests(self,item,info):
+		if(item.get('image_urls')):
+			for image_url in item['image_urls']:
+				yield Request(image_url)
+		else:
+			return item
+	def item_completed(Self,results,item,info):
+		if(not item.get('image_urls')):
+			return item
+		image_paths = [x['path'] for ok, x in results if ok]
+		if not image_paths:
+			raise DropItem('Item contains no images')
+		item['image_paths'] = image_paths
+		return item
