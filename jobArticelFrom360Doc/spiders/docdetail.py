@@ -13,6 +13,7 @@ class DocDetailCrawlerSpider(scrapy.Spider):
 	name='DocDetailCrawler'
 	allowed_domains=['360doc.com']
 	custom_settings={
+	#'MONGO_URI':'mongodb://192.168.1.163:2222/',
 	'MONGO_URI':'mongodb://192.168.8.119:2222/',
 	'MONGO_DATEBASE':'zheyibu'
 	}
@@ -25,7 +26,8 @@ class DocDetailCrawlerSpider(scrapy.Spider):
 
 	def LoadUrl(self,start_urls):
 		start_urls=[]
-		for i in range(1,2):
+		for i in range(1,5):
+			#filename = 'D:\\360Doc\\result\\doclist_%d.json'%i
 			filename = 'I:\\Scapy\\result\\doclist_%d.json'%i
 			if not os.path.exists(filename):
 				continue
@@ -43,21 +45,13 @@ class DocDetailCrawlerSpider(scrapy.Spider):
 		return start_urls
 
 	def parse(self,response):
-		#print(response.url)
 		url = urlparse(response.url)
 		path = url.path
 		pathparts = path.split('/')
 		usernameArticleId = pathparts[-1].split('.')[0]
 		username = usernameArticleId.split('_')[0]
 		articleId = usernameArticleId.split('_')[1]
-		#print(pathparts[-1].split('.')[0])
-		#filename = 'I:\\Scapy\\jobArticelFrom360Doc\\jobArticelFrom360Doc\\docresult\\doc_%s.html'%pathparts[-1].split('.')[0]
-		#body=response.body
 		content = response.selector.xpath('//div[@id="articlecontent"]/table').extract_first()
-		#style="[\s\S^"]*?"|<img[\s\S^>]*?>|<script>[\s\S]*?</script>
-		#remove_tags(content)
-		#if not content:
-			#content = response.selector.xpath('//div[@id="word_inside"]').extract_first()
 		date = response.xpath('//div[contains(@class,"article_data_left")]/text()').extract_first().strip('\n')
 		author = response.xpath('//div[contains(@class,"article_data_left")]/span/a/text()').extract_first()
 

@@ -26,17 +26,22 @@ class Jobarticelfrom360DocPipeline(object):
 	def process_item(self, item, spider):
 		if item.get('user'):
 			#return item
-			if self.db['360DocReview'].find({'reviewId':item['reviewId']}).count() == 0:
-				self.db['360DocReview'].insert(dict(item))
+			if self.db['JobDocReview360'].find({'reviewId':item['reviewId']}).count() == 0:
+				item['_id'] = int(item['reviewId'])
+				self.db['JobDocReview360'].insert(dict(item))
 		if item.get('reviewurl') and item.get('content'):
-			if self.db['360DocList'].find({'articleId':item.get('articleId')}).count() == 0:
+			if self.db['JobDocList360'].find({'articleId':item.get('articleId')}).count() == 0:
 				originalImageUrl = item['image_urls']
 				localImageUrl = item['image_paths']
 				zippedImage = zip(originalImageUrl,localImageUrl)
-				for image in list(zippedImage):
-					item['content'] = item['content'].replace(image[0],'http://static.zheyibu.com/careerdoc/images/'+image[1])
-				self.db['360DocList'].insert(dict(item))
-			#return item
+				zippedimageList = list(zippedImage)
+				for image in zippedimageList:
+					item['content'] = item['content'].replace(image[0],'http://static.zheyibu.com/careerdoc/images4/'+image[1])
+				if len(zippedimageList) > 0:
+					item['Thumb'] = 'http://static.zheyibu.com/careerdoc/images4/'+zippedimageList[0][1].replace('/full/','/thumbs/big/')
+				item['_id'] = int(item['articleId'])
+				self.db['JobDocList360'].insert(dict(item))
+			return item
 		else:
 			raise DropItem('Empty item')
 
