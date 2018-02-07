@@ -31,13 +31,15 @@ class Jobarticelfrom360DocPipeline(object):
 				self.db['JobDocReview360'].insert(dict(item))
 		if item.get('reviewurl') and item.get('content'):
 			if self.db['JobDocList360'].find({'articleId':item.get('articleId')}).count() == 0:
-				originalImageUrl = item['image_urls']
-				localImageUrl = item['image_paths']
+				originalImageUrl = item.get('image_urls',[])
+				localImageUrl = item.get('image_paths',[])
+
 				zippedImage = zip(originalImageUrl,localImageUrl)
 				zippedimageList = list(zippedImage)
-				for image in zippedimageList:
-					item['content'] = item['content'].replace(image[0],'http://static.zheyibu.com/careerdoc/images4/'+image[1])
+				
 				if len(zippedimageList) > 0:
+					for image in zippedimageList:
+						item['content'] = item['content'].replace(image[0],'http://static.zheyibu.com/careerdoc/images4/'+image[1])
 					item['Thumb'] = 'http://static.zheyibu.com/careerdoc/images4/'+zippedimageList[0][1].replace('/full/','/thumbs/big/')
 				item['_id'] = int(item['articleId'])
 				self.db['JobDocList360'].insert(dict(item))

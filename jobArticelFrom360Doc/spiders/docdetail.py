@@ -8,6 +8,7 @@ from scrapy.http import HtmlResponse
 from jobArticelFrom360Doc.items import Jobarticelfrom360DocItem
 from jobArticelFrom360Doc.items import ArticleReviewItem
 import re
+import pymongo
 #from w3lib.html import remove_tags
 class DocDetailCrawlerSpider(scrapy.Spider):
 	name='DocDetailCrawler'
@@ -18,15 +19,22 @@ class DocDetailCrawlerSpider(scrapy.Spider):
 	'MONGO_DATEBASE':'zheyibu'
 	}
 	#self.LoadUrl()
+	mongo_uri = ''
+	mongo_db = ''
 	start_urls=[]
 	def __init__(self):
+		self.mongo_uri = self.custom_settings.get('MONGO_URI')
+		self.mongo_db = self.custom_settings.get('MONGO_DATEBASE','zheyibu')
+		self.client = pymongo.MongoClient(self.mongo_uri)
+		self.db = self.client[self.mongo_db]
 		self.start_urls = self.LoadUrl(self.start_urls)
 		#print(self.start_urls)
 
-
+	def checkNotExists(self,url):
+		return self.db['JobDocList360'].find({'reviewurl':url}).count() == 0
 	def LoadUrl(self,start_urls):
 		start_urls=[]
-		for i in range(1,5):
+		for i in range(1,2):
 			#filename = 'D:\\360Doc\\result\\doclist_%d.json'%i
 			filename = 'I:\\Scapy\\result\\doclist_%d.json'%i
 			if not os.path.exists(filename):
@@ -36,10 +44,13 @@ class DocDetailCrawlerSpider(scrapy.Spider):
 			content=urlFile.read()
 			contentObj=json.loads(content)
 			for obj in contentObj[0]['data']:
-				start_urls.append(obj['StrUrl'])
-				#print(obj['StrUrl'])
-				#break
-				#pass
+				
+				if self.checkNotExists(obj['StrUrl']):
+					print(obj['StrUrl'])
+					start_urls.append(obj['StrUrl'])
+					#print(obj['StrUrl'])
+					#break
+					#pass
 			
 			urlFile.close()
 		return start_urls
@@ -60,6 +71,8 @@ class DocDetailCrawlerSpider(scrapy.Spider):
 		page = 1
 		j = 1
 		reviewUrl = 'http://webservice.360doc.com/GetArtInfo20130912NewV.ashx?GetReflection2=%s,%s,0,%s,%s,%d&jsoncallback=jsonp123'%(articleId,username,page,articleId,j)
+		content = re.sub('href="([\s\S]*?)"','',content)
+		content = re.sub('<img[\s\S]*?>','',content)
 		item = Jobarticelfrom360DocItem()
 		item['reviewurl'] = response.url
 		item['articleId'] = articleId
@@ -67,7 +80,7 @@ class DocDetailCrawlerSpider(scrapy.Spider):
 		item['author'] = author
 		item['date'] = date
 		item['title'] = response.selector.xpath('//h2[@id="titiletext"]/text()').extract_first()
-		item['image_urls'] = response.xpath('//div[@id="articlecontent"]//img/@src').extract()
+		#item['image_urls'] = response.xpath('//div[@id="articlecontent"]//img/@src').extract()
 		yield item
 		# item={
 		# title:'',
